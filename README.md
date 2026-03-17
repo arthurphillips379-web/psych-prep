@@ -1,4 +1,4 @@
-# psych-prep 🧠🐍
+# psych-prep
 
 **psych-prep** is a lightweight Python library designed to bridge the gap between behavioral research and data science. It automates the "Qualtrics Headache"—the tedious process of cleaning messy survey exports.
 
